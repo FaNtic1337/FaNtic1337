@@ -67,24 +67,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UnrealEngine" alt="UE" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/Pygame_logo.svg" title="Pygame" alt="Pygame" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/mc12-logo.png" title="MicroCap12" alt="MicroCap12" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/sublimemerge.svg" title="SublimeMerge" alt="SublimeMerge" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/Pygame_logo.svg" title="Pygame" alt="Pygame" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/sublimemerge.svg" title="SublimeMerge" alt="SublimeMerge" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/notion.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/habitica.svg" title="Habitica" alt="Habitica" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/B%26R_AutomationStudio.png" title="B&R Automation Studio" alt="B&R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/B%26R_AutomationStudio.png" title="B&R Automation Studio" alt="B&R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/mc12-logo.png" title="MicroCap12" alt="MicroCap12" width="40" height="40"/>&nbsp;
+
 
  
 </div>  
