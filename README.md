@@ -1,6 +1,7 @@
 <div id="header" align="center">
   
   # ⛩️🗻 *Greetings to all IT samurai* 🗻⛩️
+
   
   <a href="https://github.com/FaNtic1337?tab=followers">
     <img src="https://img.shields.io/github/followers/fantic1337?color=BA55D3&logo=github&style=for-the-badge" alt="FaNtic's GitHub Followers"/>
@@ -9,11 +10,13 @@
 <!--   <a href="https://github.com/FaNtic1337">
     <img src="https://komarev.com/ghpvc/?username=fantic1337&label=Watchers&color=BA55D3&style=for-the-badge" alt="FaNtic's GitHub Proile Watchers"/>
   </a> -->
-
+  
+  
   <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">
   
 </div>
 
+---
 
 <div id="badges" align="center">
   
@@ -30,16 +33,53 @@
   </a>
 </div>
 
+---
 
-# 👨‍💻 About me
+### 👨‍💻 About me:
 
 <div id="Aboutme">  
   
-- 👋 Hi, I’m FaNtic1337, check other my works here: https://github.com/FaNtic1337
-- 👀 I’m interested in creating video games on python and c++.
-- 🌱 I’m currently learning the UE4 and how to create beatiful games with it!
-   
+- 👋 Hey everyone! My name is Daniil and I am junior software engineer!
+  
+- 👨‍🎓 I'm a robotic engineer by education. My university developments will be presented here. Hope they are useful to someone.
+  
+- 🎮 I realy like video games and and no less like to develop them. That's why my main goal is starting carrer in gamedev industry!
+  
+- 🎓 Now I'm continuing my education as robotic engineer and at the same time study UE4, QA stuff for games, creating games with Python3 and C++.
+  
+- 🌃 I'm really big fun of tropical fishes 🐠, coffee ☕ and electronic / alternative music 🎵!
+
+</div>  
+  
+---
+
+### 🛠️ Languages and Tools:
+
+<div id="Tools">
+  
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>C</title><path d="M16.5921 9.1962s-.354-3.298-3.627-3.39c-3.2741-.09-4.9552 2.474-4.9552 6.14 0 3.6651 1.858 6.5972 5.0451 6.5972 3.184 0 3.5381-3.665 3.5381-3.665l6.1041.365s.36 3.31-2.196 5.836c-2.552 2.5241-5.6901 2.9371-7.8762 2.9201-2.19-.017-5.2261.034-8.1602-2.97-2.938-3.0101-3.436-5.9302-3.436-8.8002 0-2.8701.556-6.6702 4.047-9.5502C7.444.72 9.849 0 12.254 0c10.0422 0 10.7172 9.2602 10.7172 9.2602z"/></svg>
+  
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+  
+</div>  
+
+---
 
 # 📈 My Stats
 
