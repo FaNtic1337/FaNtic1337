@@ -82,7 +82,7 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/notion.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/habitica.svg" title="Habitica" alt="Habitica" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
