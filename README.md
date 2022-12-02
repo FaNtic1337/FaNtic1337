@@ -89,7 +89,6 @@
   <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/B%26R_AutomationStudio.png" title="B&R Automation Studio" alt="B&R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/mc12-logo.png" title="MicroCap12" alt="MicroCap12" width="40" height="40"/>&nbsp;
 
-
  
 </div>  
 
