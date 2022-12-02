@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/github/followers/fantic1337?color=BA55D3&logo=github&style=for-the-badge" alt="FaNtic's GitHub Followers"/>
   </a>
   
-  <a href="https://github.com/FaNtic1337">
+<!--   <a href="https://github.com/FaNtic1337">
     <img src="https://komarev.com/ghpvc/?username=fantic1337&label=Watchers&color=BA55D3&style=for-the-badge" alt="FaNtic's GitHub Proile Watchers"/>
-  </a>
+  </a> -->
 
   <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">
   
