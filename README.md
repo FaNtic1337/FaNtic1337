@@ -114,6 +114,7 @@
 
 [![FaNtic's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantic1337&&show_icons=true&theme=jolly&hide=prs,issues&count_private=true)](https://github.com/FaNtic1337)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantic1337&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
